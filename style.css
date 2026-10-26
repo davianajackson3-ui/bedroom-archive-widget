@@ -3,7 +3,7 @@
 html {
     font-family: Arial, sans-serif;
     font-size: 13px;
-    color: white;
+    color: #222222;
 }
 
 table {
@@ -31,7 +31,7 @@ td#date {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #222222;
 }
 
 a#track {
